@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on MERN stack, because I've been told it's popular. 🍾
 - 🤓 I'm new to GitHub, will use it to stack my projects and collaborate with others. 🤝
 - 💞️ I’m looking to collaborate on Mern Stack Projects. 🗃️
-- 🧠 I also have good knowledge and understanding of Java, C++ and Python. 🐍
+- 🧠 I also have good knowledge and understanding of Java, C++ and Python alson with web technologies like HTML5, CSS, JavaScript, React, TypeScript, Node, Express, MongoD. 🖼️
 - 📫 Reach me out on Instagram at @surajxweb (and email at info@surajxweb.com when it'll be active by December 2021) 💌
 
 <!---
