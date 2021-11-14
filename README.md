@@ -1,4 +1,4 @@
-<img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png">
+<img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png" align="center" width="200px">
 <br>
 <h2 align="center">About Me! 🧑‍💻 </h2><br>
 
