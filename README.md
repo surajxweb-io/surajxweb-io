@@ -2,6 +2,7 @@
 <br>
 <h2 align="center">About Me! 🧑‍💻 </h2><br>
 
+- ⚡ I am passionate about **beautiful technologies and cheese burst pizzas (because why not?).**
 
 - 🔭 I’m currently working on **React Projects, because I've been told they're popular (and also it's fun).**
 
@@ -11,7 +12,6 @@
 
 - 📫 Reach me out at **katyayansuraj07@hotmail.com.**
 
-- ⚡ I am passionate about **beautiful technologies and cheese burst pizzas (because why not?).**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
