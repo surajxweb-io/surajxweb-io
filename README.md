@@ -1,3 +1,5 @@
+<img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png">
+
 <h1 align="center">Hi 👋, I'm Suraj Katyayan</h1>
 <h3 align="center">I am a JavaScript Developer 🔥</h3>
 <br>
