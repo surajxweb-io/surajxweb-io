@@ -1,9 +1,3 @@
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-
 <img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png">
 
 
@@ -18,7 +12,7 @@ p    {color: red;}
 
 - ⚡ I am passionate about **beautiful technologies and cheese burst pizzas (because why not?).**
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 color="red" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/surajxweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="surajxweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surajxweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajxweb" height="30" width="40" /></a>
