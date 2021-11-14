@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Katyayan</h1>
 <h3 align="center">I am a JavaScript Developer 🔥</h3>
+<br><br>
 
 - 🔭 I’m currently working on **React Projects, because I've been told they're popular.**
 
