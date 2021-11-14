@@ -1,8 +1,12 @@
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 <img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png">
 
-<h1 align="center">Hi 👋, I'm Suraj Katyayan</h1>
-<h3 align="center">I am a JavaScript Developer 🔥</h3>
-<br>
+
 
 - 🔭 I’m currently working on **React Projects, because I've been told they're popular (and also it's fun).**
 
