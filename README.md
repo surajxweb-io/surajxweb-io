@@ -1,6 +1,6 @@
 <a href="https://github.com/surajxweb-io/surajxweb-io/blob/main/README.md#about-me--" style="text-align: center">
 
-<img src="[https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png](https://github.com/surajxweb/images/blob/master/Purple%20Neon%20Minimalist%20Virtual%20Reality%20Twitter%20Header.png?raw=true)"  align="center"></a>
+<img src="https://github.com/surajxweb-io/images/blob/master/Hello%20World%2C%20Let's%20Code!.png"  align="center"></a>
 <br>
 <h2 align="center">About Me! 🧑‍💻 </h2>
 
