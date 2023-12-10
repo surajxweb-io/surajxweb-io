@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects because I am not MEAN (pun intended).**
 
-- 👨‍💻 All of my projects are available at [https://www.surajxweb.dev/projects](https://www.surajxweb.dev/projects)
+- 👨‍💻 All of my projects are available at [https://www.surajcodes.in/projects](https://www.surajcodes.in/projects)
 
 - 📝 I regularly write articles on [https://www.surajden.com](https://www.surajden.com)
 
